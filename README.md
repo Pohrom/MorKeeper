@@ -1,2 +1,1 @@
-# MorKeeper
-a openkeeper implement for windows ras api
+# MorKeepera openkeeper implement for windows ras api## 配置### 源代码```cstd::string knownUsername = "xxxxxx@cqupt";std::string knownPassword = "xxxxxx";char *connName = "CQUPT";```### 网络连接新建拨号链接 CQUPT
